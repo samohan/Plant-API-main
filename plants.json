@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Bromeliad",
+      "description": "A tropical American plant that typically has bright-colored bracts.",
+      "growingConditions": "Partial shade, well-drained soil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bromeliad3.jpg/1024px-Bromeliad3.jpg"
+    },
+    {
+        "name": "Tulip",
+        "description": "A bulbous spring-flowering plant of the lily family.",
+        "growingConditions": "Full to partial sun, well-drained soil.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG/800px-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG"
+      },
+    {
+      "name": "Heliconia",
+      "description": "A tropical flowering plant native to the Americas, known for its bright, beautiful flowers.",
+      "growingConditions": "Full sun to partial shade, rich soil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Heliconia_latispatha_%28Starwiz%29.jpg/1024px-Heliconia_latispatha_%28Starwiz%29.jpg"
+    },
+    {
+      "name": "Lotus",
+      "description": "An aquatic perennial native to India. Often used as a symbol of purity.",
+      "growingConditions": "Full sun, standing water.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2.jpg/1024px-Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2.jpg"
+    },
+    {
+      "name": "Marigold",
+      "description": "A common Indian flowering plant used in traditional festivals.",
+      "growingConditions": "Full sun, well-drained soil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/French_marigold.jpg/1024px-French_marigold.jpg"
+    },
+    {
+        "name": "Sunflower",
+        "description": "A tall, bright and cheerful flower, known for its large heads.",
+        "growingConditions": "Full sun, well-drained soil.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SunflowerSunset2.jpg/800px-SunflowerSunset2.jpg"
+      },
+    {
+      "name": "Jabuticaba",
+      "description": "A tree that produces grape-like fruits native to Brazil.",
+      "growingConditions": "Full sun, acidic soil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jabuticaba_fruto.jpg/1024px-Jabuticaba_fruto.jpg"
+    },
+    {
+        "name": "Orchid",
+        "description": "A diverse and widespread family of flowering plants.",
+        "growingConditions": "Partial sun, well-drained soil.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Orchid_high_resolution.jpg/800px-Orchid_high_resolution.jpg"
+      },
+    {
+      "name": "Champa",
+      "description": "A highly fragrant plant used in Indian temples for worship.",
+      "growingConditions": "Full sun to partial shade, well-drained soil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Plumeria_rubra-4.JPG/1024px-Plumeria_rubra-4.JPG"
+    },
+    {
+      "name": "Rose",
+      "description": "A woody perennial flowering plant of the genus Rosa.",
+      "growingConditions": "Full sun, well-drained soil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rosa_Precious_platinum.jpg/800px-Rosa_Precious_platinum.jpg"
+    },
+    {
+      "name": "Lavender",
+      "description": "A small aromatic evergreen shrub of the mint family.",
+      "growingConditions": "Full sun, well-drained soil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Single_lavender_flower02.jpg/800px-Single_lavender_flower02.jpg"
+    },
+    {
+      "name": "Daisy",
+      "description": "A simple yet sophisticated flower with a friendly vibe.",
+      "growingConditions": "Full to partial sun, well-drained soil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Belis_peremnis_-_panoramio.jpg/800px-Belis_peremnis_-_panoramio.jpg"
+    }
+  ]
+  
